@@ -1,23 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>ryanavery.rocks/markdown/2020/01/14/test-markdown-post.html</loc>
+<loc>ryanavery.rocks/site/markdown/2020/01/14/test-markdown-post.html</loc>
 <lastmod>2020-01-14T00:00:00-06:00</lastmod>
 </url>
 <url>
-<loc>ryanavery.rocks/jupyter/2020/02/20/test.html</loc>
+<loc>ryanavery.rocks/site/jupyter/2020/02/20/test.html</loc>
 <lastmod>2020-02-20T00:00:00-06:00</lastmod>
 </url>
 <url>
-<loc>ryanavery.rocks/about/</loc>
+<loc>ryanavery.rocks/site/tools/2020/04/01/porder-tutorial.html</loc>
+<lastmod>2020-04-01T00:00:00-05:00</lastmod>
 </url>
 <url>
-<loc>ryanavery.rocks/</loc>
+<loc>ryanavery.rocks/site/about/</loc>
 </url>
 <url>
-<loc>ryanavery.rocks/search/</loc>
+<loc>ryanavery.rocks/site/</loc>
 </url>
 <url>
-<loc>ryanavery.rocks/categories/</loc>
+<loc>ryanavery.rocks/site/search/</loc>
+</url>
+<url>
+<loc>ryanavery.rocks/site/categories/</loc>
 </url>
 </urlset>
