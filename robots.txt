@@ -1,1 +1,1 @@
-Sitemap: ryanavery.rocks/site/sitemap.xml
+Sitemap: ryanavery.rocks/sitemap.xml
